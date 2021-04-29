@@ -1,0 +1,32 @@
+ 
+<Sentence id='1'>
+1	((	RBP	<fs af=',,,,,,,' name='RBP' drel='sent-adv:VGF'>
+1.1	শুধু	RB	<fs af=',,,,,,,' name='শুধু'>
+	))
+2	((	NP	<fs af=',,,,,,,' name='NP' drel='k1:VGNF'>
+2.1	অভিযোগ	N__NN	<fs af=',,,,,,,' name='অভিযোগ'>
+	))
+3	((	VGNF	<fs af=',,,,,,,' name='VGNF' drel='vmod:VGF'>
+3.1	করলেই	V__VM__VNF	<fs af=',,,,,,,' name='করলেই'>
+	))
+4	((	VGF	<fs af=',,,,,,,' name='VGF' stype='declarative' voicetype='active' drel='nmod:NP2'>
+4.1	হবে	V__VM__VF	<fs name='হবে'>
+4.2	না	RP__NEG	<fs name='না'>
+4.3	,	RD__PUNC	<fs name=','>
+	))
+5	((	NP	<fs af=',,,,,,,' name='NP2' drel='k1:VGF2'>
+5.1	সেই	DM__DMD	<fs name='সেই'>
+5.2	অভিযোগ	N__NN	<fs name='অভিযোগ2'>
+	))
+6	((	NP	<fs af=',,,,,,,' name='NP3' drel='k2:VGF2'>
+6.1	প্রমাণও	N__NN	<fs af=',,,,,,,' name='প্রমাণও'>
+	))
+7	((	VGF	<fs af=',,,,,,,' stype='declarative' voicetype='active' name='VGF2'>
+7.1	করতে	V__VM	<fs name='করতে'>
+7.2	হবে	V__VAUX	<fs name='হবে2'>
+	))
+8	((	BLK	<fs af=',,,,,,,' name='BLK' drel='rsym:VGF2'>
+8.1	।	RD__PUNC	<fs af=',,,,,,,' name='।'>
+	))
+</Sentence>
+ 

@@ -1,0 +1,10 @@
+{
+    "^NP" : "N_NN.*|PR_PR.*|N__NN.*|PR__PR.*",
+    "^VG.*" : "V_VM.*|V__VM.*",
+    "^JJP" : "JJ|QT.*",
+    "^RBP" : "RB",
+    "^FRAGP" : "PSP|RP.*",
+    "^NEGP" : "RP_NEG",
+    "^CCP": "CC_CCS|CC_CCD|CC__CCS|CC__CCD",
+    "^BLK": "RD_PUNC|RD__PUNC"
+}
